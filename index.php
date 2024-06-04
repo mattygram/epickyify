@@ -4,10 +4,10 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="shortcut icon" href="./img/voteicon.png" type="image/x-icon" />
-  <link rel="stylesheet" href="./css/index.css" />
-  <script defer src="./js/index.js"></script>
-  <script defer src="./FONTS/all.js"></script>
+  <link rel="shortcut icon" href="./voteicon.png" type="image/x-icon" />
+  <link rel="stylesheet" href="./index.css" />
+  <script defer src="./index.js"></script>
+  <script defer src="./all.js"></script>
 
   <!-- HTML Meta Tags -->
   <title>Epickify</title>
@@ -42,13 +42,13 @@ Our marketplace offers a wide range of features designed to make the collaborati
   <div class="text">Discover how we can transform your online presence.</div>
   <main class="container">
     <div class="circle">
-      <img class="circleImg" src="./img/banner.png" alt="" />
-      <img class="likeImg" src="./img/likes.png" alt="" width="100" />
-      <img class="messageImg" src="./img/message.png" alt="" width="100" />
+      <img class="circleImg" src="./banner.png" alt="" />
+      <img class="likeImg" src="./likes.png" alt="" width="100" />
+      <img class="messageImg" src="./message.png" alt="" width="100" />
     </div>
   </main>
   <div class="buttons">
-    <a href="./vote">Vote with instagram <i class="fab fa-instagram"></i></a>
+    <a href="./vote.php">Vote with instagram <i class="fab fa-instagram"></i></a>
     <a href="#">Vote with Facebook <i class="fab fa-facebook"></i></a>
   </div>
 
